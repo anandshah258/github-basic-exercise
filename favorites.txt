@@ -10,3 +10,4 @@ movie 3
 
 favorite articles
 article 1
+article 2
