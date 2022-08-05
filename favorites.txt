@@ -11,3 +11,8 @@ movie 3
 favorite articles
 article 1
 article 2
+
+favorite titles
+title 1
+title 2
+title 3
