@@ -7,3 +7,6 @@ favorite movies
 movie 1
 movie 2
 movie 3
+
+favorite articles
+article 1
